@@ -1,6 +1,6 @@
-# trillex
-# Pixel Art Maker Project
 
+# Pixel Art Maker Project
+Link ; https://ayodeji92.github.io/Project_Pixel_maker/
 ## Table of Contents
 
 * [Instructions](#instructions)
